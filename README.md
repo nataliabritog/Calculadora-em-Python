@@ -1,3 +1,3 @@
 
-Uma calculadora preta em python 
-A calculadora que faz soma, subtração, multiplicação e divisão .
+# Uma calculadora em python 
+Uma calculadora preta em Python, que faz soma, subtração, multiplicação e divisão.
